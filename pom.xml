@@ -11,10 +11,10 @@
     <properties>
         <java.version>21</java.version>
         <jodconverter.version>4.4.6</jodconverter.version>
-        <spring.boot.version>3.5.6</spring.boot.version>
-        <poi.version>5.2.2</poi.version>
+        <spring.boot.version>3.5.9</spring.boot.version>
+        <poi.version>5.5.1</poi.version>
         <xdocreport.version>1.0.6</xdocreport.version>
-        <xstream.version>1.4.20</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <junrar.version>7.5.5</junrar.version>
         <redisson.version>3.22.0</redisson.version>
         <sevenzipjbinding.version>16.02-2.01</sevenzipjbinding.version>
@@ -33,13 +33,13 @@
         <itextpdf.version>5.5.13.3</itextpdf.version>
         <httpclient.version>3.1</httpclient.version>
         <aspose-cad.version>23.9</aspose-cad.version>
-        <bcprov-jdk15on.version>1.70</bcprov-jdk15on.version>
+        <bcprov-jdk18on.version>1.83</bcprov-jdk18on.version>
         <juniversalchardet.version>1.0.3</juniversalchardet.version>
         <httpcomponents.version>4.5.14</httpcomponents.version>
 
         <commons-cli.version>1.5.0</commons-cli.version>
         <commons-net.version>3.9.0</commons-net.version>
-        <commons-lang3.version>3.13.0</commons-lang3.version>
+        <commons-lang3.version>3.20.0</commons-lang3.version>
 
 
         <maven.compiler.source>${java.version}</maven.compiler.source>
